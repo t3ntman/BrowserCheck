@@ -1,0 +1,7 @@
+c:\users\user\documents\visual studio 2013\Projects\BrowserCheck\BrowserCheck\bin\Debug\BrowserCheck.exe
+c:\users\user\documents\visual studio 2013\Projects\BrowserCheck\BrowserCheck\bin\Debug\BrowserCheck.pdb
+c:\users\user\documents\visual studio 2013\Projects\BrowserCheck\BrowserCheck\obj\Debug\BrowserCheck.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\BrowserCheck\BrowserCheck\obj\Debug\BrowserCheck.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\BrowserCheck\BrowserCheck\obj\Debug\BrowserCheck.exe
+c:\users\user\documents\visual studio 2013\Projects\BrowserCheck\BrowserCheck\obj\Debug\BrowserCheck.pdb
+c:\users\user\documents\visual studio 2013\Projects\BrowserCheck\BrowserCheck\obj\Debug\BrowserCheck.Form1.resources
